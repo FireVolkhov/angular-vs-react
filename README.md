@@ -1,4 +1,4 @@
-# Сравнение angular и react приложения
+# РЎСЂР°РІРЅРµРЅРёРµ angular Рё react РїСЂРёР»РѕР¶РµРЅРёСЏ
 
 [Angular](https://firevolkhov.github.io/angular-vs-react/angular.html)  
 [React](https://firevolkhov.github.io/angular-vs-react/react.html)  
